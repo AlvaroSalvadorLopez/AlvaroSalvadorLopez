@@ -47,8 +47,9 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU_PERFIL)  
-🌍 **GitHub:** [github.com/AlvarosalvadorLopez](https://github.com/AlvaroSalvadorLopez)
 📩 **Email:** alvarosalvador99@gmail.com  
+🌍 **GitHub:** [github.com/AlvarosalvadorLopez](https://github.com/AlvaroSalvadorLopez)
+
 
 ---
 
