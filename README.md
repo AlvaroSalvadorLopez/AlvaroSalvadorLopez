@@ -9,9 +9,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🏆 **[Player Performance Analysis](https://github.com/TU_REPO)** → Wearable-based soccer performance tracking system.  
-- 📊 **[Data Analysis Dashboard](https://github.com/TU_REPO)** → Interactive visualization using Python & Pandas.  
-- 🔐 **[Cryptography Tool](https://github.com/TU_REPO)** → Implementation of encryption algorithms in Python.  
+- ⚽ **[Football Market Value Prediction](https://github.com/AlvaroSalvadorLopez/football-market-value-prediction)** → Machine learning model for predicting soccer player market values.
 
 ---
 
